@@ -1,3 +1,12 @@
+Answer to the output file number question:
+1.How many output files are there?
+answer:3
+2.Do they all have useful information in them?
+answer:No
+3.Why?
+answer:Because only one reducer was assigned and worked.
+
+
 A description of your program:
 
 Map part:
